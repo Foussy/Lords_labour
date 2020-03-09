@@ -1,0 +1,1858 @@
+<map>
+    <region name="Ungovernable Steppe">
+        <mining>
+            <site>
+                <type>Obsidian occurrence</type>
+                <url>https://www.lordswm.com/object-info.php?id=370</url>
+            </site>
+            <site>
+                <type>Obsidian occurrence</type>
+                <url>https://www.lordswm.com/object-info.php?id=364</url>
+            </site>
+            <site>
+                <type>Obsidian occurrence</type>
+                <url>https://www.lordswm.com/object-info.php?id=365</url>
+            </site>
+            <site>
+                <type>Obsidian occurrence</type>
+                <url>https://www.lordswm.com/object-info.php?id=363</url>
+            </site>
+        </mining>
+        <machining/>
+        <production>
+            <site>
+                <type>Obsidian shield factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=380</url>
+            </site>
+            <site>
+                <type>Flame plate plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=376</url>
+            </site>
+            <site>
+                <type>Obsidian boots plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=378</url>
+            </site>
+            <site>
+                <type>Jewellery of ambition</type>
+                <url>https://www.lordswm.com/object-info.php?id=369</url>
+            </site>
+            <site>
+                <type>Nightwatch works</type>
+                <url>https://www.lordswm.com/object-info.php?id=377</url>
+            </site>
+            <site>
+                <type>Dragonlords Legacy jewellery</type>
+                <url>https://www.lordswm.com/object-info.php?id=375</url>
+            </site>
+            <site>
+                <type>Obsidian helmet plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=379</url>
+            </site>
+            <site>
+                <type>Jewellery of wardance</type>
+                <url>https://www.lordswm.com/object-info.php?id=374</url>
+            </site>
+            <site>
+                <type>Blacksmith of rebirth</type>
+                <url>https://www.lordswm.com/object-info.php?id=373</url>
+            </site>
+            <site>
+                <type>Maskrobe manufactory</type>
+                <url>https://www.lordswm.com/object-info.php?id=366</url>
+            </site>
+            <site>
+                <type>Dragonscale works</type>
+                <url>https://www.lordswm.com/object-info.php?id=371</url>
+            </site>
+            <site>
+                <type>Soldier boots works</type>
+                <url>https://www.lordswm.com/object-info.php?id=372</url>
+            </site>
+        </production>
+    </region>
+    <region name="Eagle Nest">
+        <mining>
+            <site>
+                <type>Sulphur dune</type>
+                <url>https://www.lordswm.com/object-info.php?id=94</url>
+            </site>
+            <site>
+                <type>Lab</type>
+                <url>https://www.lordswm.com/object-info.php?id=265</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=227</url>
+            </site>
+            <site>
+                <type>Lab</type>
+                <url>https://www.lordswm.com/object-info.php?id=328</url>
+            </site>
+            <site>
+                <type>Lab</type>
+                <url>https://www.lordswm.com/object-info.php?id=244</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=286</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=307</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Foundry</type>
+                <url>https://www.lordswm.com/object-info.php?id=349</url>
+            </site>
+            <site>
+                <type>Foundry</type>
+                <url>https://www.lordswm.com/object-info.php?id=139</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Steel cuirass blacksmith</type>
+                <url>https://www.lordswm.com/object-info.php?id=97</url>
+            </site>
+            <site>
+                <type>Defender shield blacksmith</type>
+                <url>https://www.lordswm.com/object-info.php?id=120</url>
+            </site>
+            <site>
+                <type>Blacksmith of might</type>
+                <url>https://www.lordswm.com/object-info.php?id=98</url>
+            </site>
+            <site>
+                <type>Steel boots factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=101</url>
+            </site>
+            <site>
+                <type>Workshop of bravery</type>
+                <url>https://www.lordswm.com/object-info.php?id=119</url>
+            </site>
+            <site>
+                <type>Amulet of zeal</type>
+                <url>https://www.lordswm.com/object-info.php?id=95</url>
+            </site>
+            <site>
+                <type>Mithril mail factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=140</url>
+            </site>
+        </production>
+    </region>
+    <region name="Peaceful Camp">
+        <mining>
+            <site>
+                <type>Sulphur dune</type>
+                <url>https://www.lordswm.com/object-info.php?id=49</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=262</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=50</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=304</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=346</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=73</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=283</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Foundry</type>
+                <url>https://www.lordswm.com/object-info.php?id=141</url>
+            </site>
+            <site>
+                <type>Steel works</type>
+                <url>https://www.lordswm.com/object-info.php?id=51</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Blacksmith of equilibrium</type>
+                <url>https://www.lordswm.com/object-info.php?id=52</url>
+            </site>
+            <site>
+                <type>Cuirass of dawn</type>
+                <url>https://www.lordswm.com/object-info.php?id=53</url>
+            </site>
+            <site>
+                <type>Mithril ring</type>
+                <url>https://www.lordswm.com/object-info.php?id=54</url>
+            </site>
+            <site>
+                <type>Chain helmet factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=55</url>
+            </site>
+            <site>
+                <type>Forge of glory</type>
+                <url>https://www.lordswm.com/object-info.php?id=79</url>
+            </site>
+            <site>
+                <type>Blacksmith of stiffness</type>
+                <url>https://www.lordswm.com/object-info.php?id=82</url>
+            </site>
+            <site>
+                <type>Dragonwing works</type>
+                <url>https://www.lordswm.com/object-info.php?id=325</url>
+            </site>
+        </production>
+    </region>
+    <region name="Crystal Garden">
+        <mining/>
+        <machining>
+            <site>
+                <type>Smeltery</type>
+                <url>https://www.lordswm.com/object-info.php?id=367</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Flame boots plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=389</url>
+            </site>
+            <site>
+                <type>Flame helmet plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=383</url>
+            </site>
+            <site>
+                <type>Nightwatch works</type>
+                <url>https://www.lordswm.com/object-info.php?id=391</url>
+            </site>
+            <site>
+                <type>Dragonlords Legacy jewellery</type>
+                <url>https://www.lordswm.com/object-info.php?id=384</url>
+            </site>
+            <site>
+                <type>Manufactory of wrath</type>
+                <url>https://www.lordswm.com/object-info.php?id=381</url>
+            </site>
+            <site>
+                <type>Cuirass of dawn</type>
+                <url>https://www.lordswm.com/object-info.php?id=394</url>
+            </site>
+            <site>
+                <type>Ring of hope</type>
+                <url>https://www.lordswm.com/object-info.php?id=368</url>
+            </site>
+            <site>
+                <type>Dragonwing works</type>
+                <url>https://www.lordswm.com/object-info.php?id=388</url>
+            </site>
+            <site>
+                <type>Jewellery of torment</type>
+                <url>https://www.lordswm.com/object-info.php?id=385</url>
+            </site>
+            <site>
+                <type>Jewellery of torment</type>
+                <url>https://www.lordswm.com/object-info.php?id=386</url>
+            </site>
+            <site>
+                <type>Obsidian shield factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=387</url>
+            </site>
+            <site>
+                <type>Blacksmith of rebirth</type>
+                <url>https://www.lordswm.com/object-info.php?id=392</url>
+            </site>
+            <site>
+                <type>Obsidian helmet plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=393</url>
+            </site>
+            <site>
+                <type>Ruby gladius blacksmith</type>
+                <url>https://www.lordswm.com/object-info.php?id=382</url>
+            </site>
+            <site>
+                <type>Ruby gladius blacksmith</type>
+                <url>https://www.lordswm.com/object-info.php?id=390</url>
+            </site>
+        </production>
+    </region>
+    <region name="Fairy Trees">
+        <mining>
+            <site>
+                <type>Lab</type>
+                <url>https://www.lordswm.com/object-info.php?id=251</url>
+            </site>
+            <site>
+                <type>Gem mine</type>
+                <url>https://www.lordswm.com/object-info.php?id=272</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=335</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=221</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=126</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=233</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Foundry</type>
+                <url>https://www.lordswm.com/object-info.php?id=134</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Manufactory of might</type>
+                <url>https://www.lordswm.com/object-info.php?id=150</url>
+            </site>
+            <site>
+                <type>Platemail blacksmith</type>
+                <url>https://www.lordswm.com/object-info.php?id=153</url>
+            </site>
+            <site>
+                <type>Warrior pendant works</type>
+                <url>https://www.lordswm.com/object-info.php?id=151</url>
+            </site>
+            <site>
+                <type>Blacksmith of courage</type>
+                <url>https://www.lordswm.com/object-info.php?id=127</url>
+            </site>
+            <site>
+                <type>Dragongrip jewellery</type>
+                <url>https://www.lordswm.com/object-info.php?id=212</url>
+            </site>
+            <site>
+                <type>Soldier boots works</type>
+                <url>https://www.lordswm.com/object-info.php?id=293</url>
+            </site>
+            <site>
+                <type>Breastplate of grace manufactory</type>
+                <url>https://www.lordswm.com/object-info.php?id=314</url>
+            </site>
+            <site>
+                <type>Amulet of luck factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=356</url>
+            </site>
+            <site>
+                <type>Mithril ring</type>
+                <url>https://www.lordswm.com/object-info.php?id=152</url>
+            </site>
+        </production>
+    </region>
+    <region name="Mithril Coast">
+        <mining>
+            <site>
+                <type>Farm</type>
+                <url>https://www.lordswm.com/object-info.php?id=130</url>
+            </site>
+            <site>
+                <type>Gem mine</type>
+                <url>https://www.lordswm.com/object-info.php?id=253</url>
+            </site>
+            <site>
+                <type>Gem mine</type>
+                <url>https://www.lordswm.com/object-info.php?id=129</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=358</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=235</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=128</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Nickel works</type>
+                <url>https://www.lordswm.com/object-info.php?id=137</url>
+            </site>
+            <site>
+                <type>Foundry</type>
+                <url>https://www.lordswm.com/object-info.php?id=138</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Ring of fiery gaze</type>
+                <url>https://www.lordswm.com/object-info.php?id=154</url>
+            </site>
+            <site>
+                <type>Ring of fiery gaze</type>
+                <url>https://www.lordswm.com/object-info.php?id=157</url>
+            </site>
+            <site>
+                <type>Mithril ring</type>
+                <url>https://www.lordswm.com/object-info.php?id=156</url>
+            </site>
+            <site>
+                <type>Obsidian sword blacksmith</type>
+                <url>https://www.lordswm.com/object-info.php?id=337</url>
+            </site>
+            <site>
+                <type>Blacksmith of courage</type>
+                <url>https://www.lordswm.com/object-info.php?id=295</url>
+            </site>
+            <site>
+                <type>Tower shield factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=155</url>
+            </site>
+            <site>
+                <type>Blacksmith of harmony</type>
+                <url>https://www.lordswm.com/object-info.php?id=316</url>
+            </site>
+            <site>
+                <type>Helmet of dawn</type>
+                <url>https://www.lordswm.com/object-info.php?id=274</url>
+            </site>
+        </production>
+    </region>
+    <region name="Harbour City">
+        <mining>
+            <site>
+                <type>Crystal cavern</type>
+                <url>https://www.lordswm.com/object-info.php?id=133</url>
+            </site>
+            <site>
+                <type>Gem mine</type>
+                <url>https://www.lordswm.com/object-info.php?id=131</url>
+            </site>
+            <site>
+                <type>Crystal cavern</type>
+                <url>https://www.lordswm.com/object-info.php?id=273</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=252</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Smeltery</type>
+                <url>https://www.lordswm.com/object-info.php?id=315</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Twilight piercer</type>
+                <url>https://www.lordswm.com/object-info.php?id=160</url>
+            </site>
+            <site>
+                <type>Composite bow works</type>
+                <url>https://www.lordswm.com/object-info.php?id=158</url>
+            </site>
+            <site>
+                <type>Mithril coif factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=159</url>
+            </site>
+            <site>
+                <type>Mithril boots factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=161</url>
+            </site>
+            <site>
+                <type>Mithril longsword blacksmith</type>
+                <url>https://www.lordswm.com/object-info.php?id=162</url>
+            </site>
+            <site>
+                <type>Mithril armor factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=336</url>
+            </site>
+            <site>
+                <type>Manufactory of thorns</type>
+                <url>https://www.lordswm.com/object-info.php?id=132</url>
+            </site>
+            <site>
+                <type>Steel buckler</type>
+                <url>https://www.lordswm.com/object-info.php?id=222</url>
+            </site>
+            <site>
+                <type>Blacksmith of stiffness</type>
+                <url>https://www.lordswm.com/object-info.php?id=234</url>
+            </site>
+            <site>
+                <type>Jewellery of ambition</type>
+                <url>https://www.lordswm.com/object-info.php?id=294</url>
+            </site>
+            <site>
+                <type>Mithril mail factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=357</url>
+            </site>
+        </production>
+    </region>
+    <region name="Magma Mines">
+        <mining>
+            <site>
+                <type>Lab</type>
+                <url>https://www.lordswm.com/object-info.php?id=249</url>
+            </site>
+            <site>
+                <type>Sulphur dune</type>
+                <url>https://www.lordswm.com/object-info.php?id=122</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=270</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=312</url>
+            </site>
+            <site>
+                <type>Mithril delf</type>
+                <url>https://www.lordswm.com/object-info.php?id=291</url>
+            </site>
+            <site>
+                <type>Mithril delf</type>
+                <url>https://www.lordswm.com/object-info.php?id=333</url>
+            </site>
+            <site>
+                <type>Mithril delf</type>
+                <url>https://www.lordswm.com/object-info.php?id=121</url>
+            </site>
+            <site>
+                <type>Mithril delf</type>
+                <url>https://www.lordswm.com/object-info.php?id=216</url>
+            </site>
+            <site>
+                <type>Mithril delf</type>
+                <url>https://www.lordswm.com/object-info.php?id=164</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Magic factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=135</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Dragongrin charm</type>
+                <url>https://www.lordswm.com/object-info.php?id=145</url>
+            </site>
+            <site>
+                <type>Longbow workshop</type>
+                <url>https://www.lordswm.com/object-info.php?id=143</url>
+            </site>
+            <site>
+                <type>Amulet of luck factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=354</url>
+            </site>
+            <site>
+                <type>Leather jackboots</type>
+                <url>https://www.lordswm.com/object-info.php?id=232</url>
+            </site>
+            <site>
+                <type>Ring of fiery gaze</type>
+                <url>https://www.lordswm.com/object-info.php?id=144</url>
+            </site>
+            <site>
+                <type>Workshop of despair</type>
+                <url>https://www.lordswm.com/object-info.php?id=142</url>
+            </site>
+        </production>
+    </region>
+    <region name="Bear Mountain">
+        <mining>
+            <site>
+                <type>Obsidian occurrence</type>
+                <url>https://www.lordswm.com/object-info.php?id=214</url>
+            </site>
+            <site>
+                <type>Mithril delf</type>
+                <url>https://www.lordswm.com/object-info.php?id=313</url>
+            </site>
+            <site>
+                <type>Crystal cavern</type>
+                <url>https://www.lordswm.com/object-info.php?id=334</url>
+            </site>
+            <site>
+                <type>Gem mine</type>
+                <url>https://www.lordswm.com/object-info.php?id=125</url>
+            </site>
+            <site>
+                <type>Crystal cavern</type>
+                <url>https://www.lordswm.com/object-info.php?id=124</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Steel works</type>
+                <url>https://www.lordswm.com/object-info.php?id=136</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Dragonwing works</type>
+                <url>https://www.lordswm.com/object-info.php?id=271</url>
+            </site>
+            <site>
+                <type>Soldier boots works</type>
+                <url>https://www.lordswm.com/object-info.php?id=292</url>
+            </site>
+            <site>
+                <type>Obsidian sword blacksmith</type>
+                <url>https://www.lordswm.com/object-info.php?id=215</url>
+            </site>
+            <site>
+                <type>Helmet of grace manufactory</type>
+                <url>https://www.lordswm.com/object-info.php?id=123</url>
+            </site>
+            <site>
+                <type>Horseshoe forge</type>
+                <url>https://www.lordswm.com/object-info.php?id=355</url>
+            </site>
+            <site>
+                <type>Mithril boots plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=148</url>
+            </site>
+            <site>
+                <type>Helmet of dawn</type>
+                <url>https://www.lordswm.com/object-info.php?id=250</url>
+            </site>
+            <site>
+                <type>Mithril cuirass plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=146</url>
+            </site>
+            <site>
+                <type>Mithril coif plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=149</url>
+            </site>
+            <site>
+                <type>Mithril ring</type>
+                <url>https://www.lordswm.com/object-info.php?id=147</url>
+            </site>
+        </production>
+    </region>
+    <region name="Rogues' Wood">
+        <mining>
+            <site>
+                <type>Gem mine</type>
+                <url>https://www.lordswm.com/object-info.php?id=344</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=20</url>
+            </site>
+            <site>
+                <type>Sulphur dune</type>
+                <url>https://www.lordswm.com/object-info.php?id=19</url>
+            </site>
+            <site>
+                <type>Crystal cavern</type>
+                <url>https://www.lordswm.com/object-info.php?id=260</url>
+            </site>
+            <site>
+                <type>Crystal cavern</type>
+                <url>https://www.lordswm.com/object-info.php?id=281</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=302</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Nickel works</type>
+                <url>https://www.lordswm.com/object-info.php?id=21</url>
+            </site>
+            <site>
+                <type>Steel works</type>
+                <url>https://www.lordswm.com/object-info.php?id=323</url>
+            </site>
+            <site>
+                <type>Magic factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=22</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Chain helmet factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=90</url>
+            </site>
+            <site>
+                <type>Steel blade blacksmith</type>
+                <url>https://www.lordswm.com/object-info.php?id=30</url>
+            </site>
+            <site>
+                <type>Blacksmith of reprisal</type>
+                <url>https://www.lordswm.com/object-info.php?id=78</url>
+            </site>
+            <site>
+                <type>Hauberk works</type>
+                <url>https://www.lordswm.com/object-info.php?id=37</url>
+            </site>
+            <site>
+                <type>Dragonwing works</type>
+                <url>https://www.lordswm.com/object-info.php?id=18</url>
+            </site>
+            <site>
+                <type>Jewellery of ambition</type>
+                <url>https://www.lordswm.com/object-info.php?id=225</url>
+            </site>
+            <site>
+                <type>Obsidian sword blacksmith</type>
+                <url>https://www.lordswm.com/object-info.php?id=240</url>
+            </site>
+        </production>
+    </region>
+    <region name="Tiger Lake">
+        <mining>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=239</url>
+            </site>
+            <site>
+                <type>Lab</type>
+                <url>https://www.lordswm.com/object-info.php?id=301</url>
+            </site>
+            <site>
+                <type>Gem mine</type>
+                <url>https://www.lordswm.com/object-info.php?id=15</url>
+            </site>
+            <site>
+                <type>Crystal cavern</type>
+                <url>https://www.lordswm.com/object-info.php?id=16</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=13</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=259</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Nickel works</type>
+                <url>https://www.lordswm.com/object-info.php?id=343</url>
+            </site>
+            <site>
+                <type>Nickel works</type>
+                <url>https://www.lordswm.com/object-info.php?id=280</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Workshop of fortune</type>
+                <url>https://www.lordswm.com/object-info.php?id=322</url>
+            </site>
+            <site>
+                <type>Leather armour plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=14</url>
+            </site>
+            <site>
+                <type>Defender shield blacksmith</type>
+                <url>https://www.lordswm.com/object-info.php?id=31</url>
+            </site>
+            <site>
+                <type>Light axe works</type>
+                <url>https://www.lordswm.com/object-info.php?id=27</url>
+            </site>
+            <site>
+                <type>Blacksmith of retribution</type>
+                <url>https://www.lordswm.com/object-info.php?id=39</url>
+            </site>
+            <site>
+                <type>Manufactory of wrath</type>
+                <url>https://www.lordswm.com/object-info.php?id=84</url>
+            </site>
+            <site>
+                <type>Breastplate of grace manufactory</type>
+                <url>https://www.lordswm.com/object-info.php?id=224</url>
+            </site>
+            <site>
+                <type>Jewellery of doubts</type>
+                <url>https://www.lordswm.com/object-info.php?id=35</url>
+            </site>
+        </production>
+    </region>
+    <region name="Shining Spring">
+        <mining>
+            <site>
+                <type>Sulphur dune</type>
+                <url>https://www.lordswm.com/object-info.php?id=331</url>
+            </site>
+            <site>
+                <type>Gem mine</type>
+                <url>https://www.lordswm.com/object-info.php?id=289</url>
+            </site>
+            <site>
+                <type>Lab</type>
+                <url>https://www.lordswm.com/object-info.php?id=247</url>
+            </site>
+            <site>
+                <type>Farm</type>
+                <url>https://www.lordswm.com/object-info.php?id=108</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=310</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=219</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Magic factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=117</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Galoshes workshop</type>
+                <url>https://www.lordswm.com/object-info.php?id=109</url>
+            </site>
+            <site>
+                <type>Boots of dawn</type>
+                <url>https://www.lordswm.com/object-info.php?id=110</url>
+            </site>
+            <site>
+                <type>Jewellery of torment</type>
+                <url>https://www.lordswm.com/object-info.php?id=111</url>
+            </site>
+            <site>
+                <type>Maskrobe manufactory</type>
+                <url>https://www.lordswm.com/object-info.php?id=112</url>
+            </site>
+            <site>
+                <type>Magic cape factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=113</url>
+            </site>
+            <site>
+                <type>Wizard helmet works</type>
+                <url>https://www.lordswm.com/object-info.php?id=114</url>
+            </site>
+            <site>
+                <type>Dragonwing works</type>
+                <url>https://www.lordswm.com/object-info.php?id=230</url>
+            </site>
+            <site>
+                <type>Workshop of courage</type>
+                <url>https://www.lordswm.com/object-info.php?id=268</url>
+            </site>
+            <site>
+                <type>Ring of faith</type>
+                <url>https://www.lordswm.com/object-info.php?id=352</url>
+            </site>
+        </production>
+    </region>
+    <region name="Sunny City">
+        <mining>
+            <site>
+                <type>Lab</type>
+                <url>https://www.lordswm.com/object-info.php?id=220</url>
+            </site>
+            <site>
+                <type>Sulphur dune</type>
+                <url>https://www.lordswm.com/object-info.php?id=104</url>
+            </site>
+            <site>
+                <type>Crystal cavern</type>
+                <url>https://www.lordswm.com/object-info.php?id=269</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=290</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=311</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Magic factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=116</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Boots of dawn</type>
+                <url>https://www.lordswm.com/object-info.php?id=103</url>
+            </site>
+            <site>
+                <type>Boots of dawn</type>
+                <url>https://www.lordswm.com/object-info.php?id=115</url>
+            </site>
+            <site>
+                <type>Guardian ring</type>
+                <url>https://www.lordswm.com/object-info.php?id=106</url>
+            </site>
+            <site>
+                <type>Blacksmith of harmony</type>
+                <url>https://www.lordswm.com/object-info.php?id=213</url>
+            </site>
+            <site>
+                <type>Mithril mail factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=332</url>
+            </site>
+            <site>
+                <type>Flame helmet plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=107</url>
+            </site>
+            <site>
+                <type>Manufactory of might</type>
+                <url>https://www.lordswm.com/object-info.php?id=353</url>
+            </site>
+            <site>
+                <type>Ring of fiery gaze</type>
+                <url>https://www.lordswm.com/object-info.php?id=248</url>
+            </site>
+            <site>
+                <type>Obsidian sword blacksmith</type>
+                <url>https://www.lordswm.com/object-info.php?id=105</url>
+            </site>
+            <site>
+                <type>Soldier boots works</type>
+                <url>https://www.lordswm.com/object-info.php?id=231</url>
+            </site>
+        </production>
+    </region>
+    <region name="Sublime Arbor">
+        <mining/>
+        <machining/>
+        <production>
+            <site>
+                <type>Flame foundry</type>
+                <url>https://www.lordswm.com/object-info.php?id=416</url>
+            </site>
+            <site>
+                <type>Workshop of fortune</type>
+                <url>https://www.lordswm.com/object-info.php?id=421</url>
+            </site>
+            <site>
+                <type>Obsidian shield factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=426</url>
+            </site>
+            <site>
+                <type>Maskrobe manufactory</type>
+                <url>https://www.lordswm.com/object-info.php?id=411</url>
+            </site>
+            <site>
+                <type>Workshop of courage</type>
+                <url>https://www.lordswm.com/object-info.php?id=422</url>
+            </site>
+            <site>
+                <type>Mithril armor factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=419</url>
+            </site>
+            <site>
+                <type>Galoshes workshop</type>
+                <url>https://www.lordswm.com/object-info.php?id=414</url>
+            </site>
+            <site>
+                <type>Jewellery of ambition</type>
+                <url>https://www.lordswm.com/object-info.php?id=412</url>
+            </site>
+            <site>
+                <type>Horseshoe forge</type>
+                <url>https://www.lordswm.com/object-info.php?id=415</url>
+            </site>
+            <site>
+                <type>Mithril mail factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=420</url>
+            </site>
+            <site>
+                <type>Forge of glory</type>
+                <url>https://www.lordswm.com/object-info.php?id=413</url>
+            </site>
+            <site>
+                <type>Manufactory of thorns</type>
+                <url>https://www.lordswm.com/object-info.php?id=417</url>
+            </site>
+            <site>
+                <type>Soldier boots works</type>
+                <url>https://www.lordswm.com/object-info.php?id=423</url>
+            </site>
+            <site>
+                <type>Ruby boots factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=424</url>
+            </site>
+            <site>
+                <type>Ruby helmet factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=425</url>
+            </site>
+            <site>
+                <type>Hawk lord workshop</type>
+                <url>https://www.lordswm.com/object-info.php?id=418</url>
+            </site>
+        </production>
+    </region>
+    <region name="Green Wood">
+        <mining>
+            <site>
+                <type>Gem mine</type>
+                <url>https://www.lordswm.com/object-info.php?id=285</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=243</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Steel works</type>
+                <url>https://www.lordswm.com/object-info.php?id=68</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Manufactory of thorns</type>
+                <url>https://www.lordswm.com/object-info.php?id=67</url>
+            </site>
+            <site>
+                <type>Ring of dexterity</type>
+                <url>https://www.lordswm.com/object-info.php?id=69</url>
+            </site>
+            <site>
+                <type>Cloak plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=88</url>
+            </site>
+            <site>
+                <type>Ring of hope</type>
+                <url>https://www.lordswm.com/object-info.php?id=70</url>
+            </site>
+            <site>
+                <type>Amulet of luck factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=71</url>
+            </site>
+            <site>
+                <type>Leather armour plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=72</url>
+            </site>
+            <site>
+                <type>Guardian ring</type>
+                <url>https://www.lordswm.com/object-info.php?id=76</url>
+            </site>
+            <site>
+                <type>Blacksmith of equilibrium</type>
+                <url>https://www.lordswm.com/object-info.php?id=77</url>
+            </site>
+            <site>
+                <type>Amulet of luck factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=81</url>
+            </site>
+            <site>
+                <type>Forge of glory</type>
+                <url>https://www.lordswm.com/object-info.php?id=264</url>
+            </site>
+            <site>
+                <type>Manufactory of thorns</type>
+                <url>https://www.lordswm.com/object-info.php?id=306</url>
+            </site>
+            <site>
+                <type>Manufactory of thorns</type>
+                <url>https://www.lordswm.com/object-info.php?id=327</url>
+            </site>
+            <site>
+                <type>Hawk lord workshop</type>
+                <url>https://www.lordswm.com/object-info.php?id=348</url>
+            </site>
+        </production>
+    </region>
+    <region name="Empire Capital">
+        <mining>
+            <site>
+                <type>Crystal cavern</type>
+                <url>https://www.lordswm.com/object-info.php?id=7</url>
+            </site>
+            <site>
+                <type>Sulphur dune</type>
+                <url>https://www.lordswm.com/object-info.php?id=5</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=3</url>
+            </site>
+            <site>
+                <type>Lab</type>
+                <url>https://www.lordswm.com/object-info.php?id=9</url>
+            </site>
+            <site>
+                <type>Gem mine</type>
+                <url>https://www.lordswm.com/object-info.php?id=6</url>
+            </site>
+            <site>
+                <type>Farm</type>
+                <url>https://www.lordswm.com/object-info.php?id=8</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=4</url>
+            </site>
+            <site>
+                <type>Diamond repository</type>
+                <url>https://www.lordswm.com/object-info.php?id=165</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Nickel works</type>
+                <url>https://www.lordswm.com/object-info.php?id=10</url>
+            </site>
+            <site>
+                <type>Steel works</type>
+                <url>https://www.lordswm.com/object-info.php?id=12</url>
+            </site>
+            <site>
+                <type>Magic factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=11</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Cloak plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=38</url>
+            </site>
+            <site>
+                <type>Shoe works</type>
+                <url>https://www.lordswm.com/object-info.php?id=34</url>
+            </site>
+            <site>
+                <type>Leather helmet plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=32</url>
+            </site>
+        </production>
+    </region>
+    <region name="East River">
+        <mining>
+            <site>
+                <type>Farm</type>
+                <url>https://www.lordswm.com/object-info.php?id=25</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=279</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=26</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=321</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=238</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=300</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=75</url>
+            </site>
+            <site>
+                <type>Lab</type>
+                <url>https://www.lordswm.com/object-info.php?id=258</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Steel works</type>
+                <url>https://www.lordswm.com/object-info.php?id=23</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Amulet of luck factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=24</url>
+            </site>
+            <site>
+                <type>Blacksmith of courage</type>
+                <url>https://www.lordswm.com/object-info.php?id=342</url>
+            </site>
+            <site>
+                <type>Jackboots manufactory</type>
+                <url>https://www.lordswm.com/object-info.php?id=36</url>
+            </site>
+            <site>
+                <type>Jewellery of doubts</type>
+                <url>https://www.lordswm.com/object-info.php?id=87</url>
+            </site>
+            <site>
+                <type>Blacksmith of retribution</type>
+                <url>https://www.lordswm.com/object-info.php?id=89</url>
+            </site>
+            <site>
+                <type>Workshop of bravery</type>
+                <url>https://www.lordswm.com/object-info.php?id=28</url>
+            </site>
+            <site>
+                <type>Signet-ring jewellery</type>
+                <url>https://www.lordswm.com/object-info.php?id=33</url>
+            </site>
+        </production>
+    </region>
+    <region name="Dragons' Caves">
+        <mining>
+            <site>
+                <type>Obsidian occurrence</type>
+                <url>https://www.lordswm.com/object-info.php?id=168</url>
+            </site>
+            <site>
+                <type>Obsidian occurrence</type>
+                <url>https://www.lordswm.com/object-info.php?id=169</url>
+            </site>
+            <site>
+                <type>Obsidian occurrence</type>
+                <url>https://www.lordswm.com/object-info.php?id=167</url>
+            </site>
+        </mining>
+        <machining/>
+        <production>
+            <site>
+                <type>Flame plate plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=309</url>
+            </site>
+            <site>
+                <type>Obsidian sword blacksmith</type>
+                <url>https://www.lordswm.com/object-info.php?id=229</url>
+            </site>
+            <site>
+                <type>Maskrobe manufactory</type>
+                <url>https://www.lordswm.com/object-info.php?id=288</url>
+            </site>
+            <site>
+                <type>Galoshes workshop</type>
+                <url>https://www.lordswm.com/object-info.php?id=172</url>
+            </site>
+            <site>
+                <type>Manufactory of wrath</type>
+                <url>https://www.lordswm.com/object-info.php?id=267</url>
+            </site>
+            <site>
+                <type>Manufactory of wrath</type>
+                <url>https://www.lordswm.com/object-info.php?id=209</url>
+            </site>
+            <site>
+                <type>Workshop of fortune</type>
+                <url>https://www.lordswm.com/object-info.php?id=246</url>
+            </site>
+            <site>
+                <type>Mithril mail factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=170</url>
+            </site>
+            <site>
+                <type>Mithril ring</type>
+                <url>https://www.lordswm.com/object-info.php?id=210</url>
+            </site>
+            <site>
+                <type>Manufactory of thorns</type>
+                <url>https://www.lordswm.com/object-info.php?id=218</url>
+            </site>
+            <site>
+                <type>Ring of fiery gaze</type>
+                <url>https://www.lordswm.com/object-info.php?id=330</url>
+            </site>
+            <site>
+                <type>Manufactory of thorns</type>
+                <url>https://www.lordswm.com/object-info.php?id=351</url>
+            </site>
+            <site>
+                <type>Workshop of courage</type>
+                <url>https://www.lordswm.com/object-info.php?id=171</url>
+            </site>
+        </production>
+    </region>
+    <region name="Wolf Dale">
+        <mining>
+            <site>
+                <type>Lab</type>
+                <url>https://www.lordswm.com/object-info.php?id=43</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=74</url>
+            </site>
+            <site>
+                <type>Crystal cavern</type>
+                <url>https://www.lordswm.com/object-info.php?id=44</url>
+            </site>
+            <site>
+                <type>Farm</type>
+                <url>https://www.lordswm.com/object-info.php?id=345</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=282</url>
+            </site>
+            <site>
+                <type>Lab</type>
+                <url>https://www.lordswm.com/object-info.php?id=226</url>
+            </site>
+            <site>
+                <type>Lab</type>
+                <url>https://www.lordswm.com/object-info.php?id=303</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=241</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Magic factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=85</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Ring of fiery gaze</type>
+                <url>https://www.lordswm.com/object-info.php?id=324</url>
+            </site>
+            <site>
+                <type>Ring of hope</type>
+                <url>https://www.lordswm.com/object-info.php?id=47</url>
+            </site>
+            <site>
+                <type>Ring of hope</type>
+                <url>https://www.lordswm.com/object-info.php?id=45</url>
+            </site>
+            <site>
+                <type>Flame boots plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=48</url>
+            </site>
+            <site>
+                <type>Hauberk works</type>
+                <url>https://www.lordswm.com/object-info.php?id=86</url>
+            </site>
+            <site>
+                <type>Hawk lord workshop</type>
+                <url>https://www.lordswm.com/object-info.php?id=261</url>
+            </site>
+            <site>
+                <type>Hat factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=46</url>
+            </site>
+        </production>
+    </region>
+    <region name="Lizard Lowland">
+        <mining>
+            <site>
+                <type>Sulphur dune</type>
+                <url>https://www.lordswm.com/object-info.php?id=59</url>
+            </site>
+            <site>
+                <type>Gem mine</type>
+                <url>https://www.lordswm.com/object-info.php?id=326</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=56</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=305</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Magic factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=64</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Dragongrip jewellery</type>
+                <url>https://www.lordswm.com/object-info.php?id=347</url>
+            </site>
+            <site>
+                <type>Ring of faith</type>
+                <url>https://www.lordswm.com/object-info.php?id=63</url>
+            </site>
+            <site>
+                <type>Signet-ring jewellery</type>
+                <url>https://www.lordswm.com/object-info.php?id=80</url>
+            </site>
+            <site>
+                <type>Blacksmith of reprisal</type>
+                <url>https://www.lordswm.com/object-info.php?id=58</url>
+            </site>
+            <site>
+                <type>Blacksmith of harmony</type>
+                <url>https://www.lordswm.com/object-info.php?id=57</url>
+            </site>
+            <site>
+                <type>Dragonlords Legacy jewellery</type>
+                <url>https://www.lordswm.com/object-info.php?id=60</url>
+            </site>
+            <site>
+                <type>Leather helmet plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=83</url>
+            </site>
+            <site>
+                <type>Blacksmith of stiffness</type>
+                <url>https://www.lordswm.com/object-info.php?id=242</url>
+            </site>
+            <site>
+                <type>Jewellery of ambition</type>
+                <url>https://www.lordswm.com/object-info.php?id=263</url>
+            </site>
+            <site>
+                <type>Obsidian armour plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=284</url>
+            </site>
+            <site>
+                <type>Jewellery of abdication</type>
+                <url>https://www.lordswm.com/object-info.php?id=61</url>
+            </site>
+        </production>
+    </region>
+    <region name="The Wilderness">
+        <mining/>
+        <machining/>
+        <production>
+            <site>
+                <type>Helmet of dawn</type>
+                <url>https://www.lordswm.com/object-info.php?id=402</url>
+            </site>
+            <site>
+                <type>Workshop of fortune</type>
+                <url>https://www.lordswm.com/object-info.php?id=403</url>
+            </site>
+            <site>
+                <type>Breastplate of grace manufactory</type>
+                <url>https://www.lordswm.com/object-info.php?id=409</url>
+            </site>
+            <site>
+                <type>Blacksmith of harmony</type>
+                <url>https://www.lordswm.com/object-info.php?id=404</url>
+            </site>
+            <site>
+                <type>Helmet of grace manufactory</type>
+                <url>https://www.lordswm.com/object-info.php?id=406</url>
+            </site>
+            <site>
+                <type>Obsidian armour plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=399</url>
+            </site>
+            <site>
+                <type>Boots of grace manufactory</type>
+                <url>https://www.lordswm.com/object-info.php?id=407</url>
+            </site>
+            <site>
+                <type>Manufactory of oblivion</type>
+                <url>https://www.lordswm.com/object-info.php?id=405</url>
+            </site>
+            <site>
+                <type>Obsidian sword blacksmith</type>
+                <url>https://www.lordswm.com/object-info.php?id=398</url>
+            </site>
+            <site>
+                <type>Blacksmith of courage</type>
+                <url>https://www.lordswm.com/object-info.php?id=410</url>
+            </site>
+            <site>
+                <type>Ruby boots factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=397</url>
+            </site>
+            <site>
+                <type>Hawk lord workshop</type>
+                <url>https://www.lordswm.com/object-info.php?id=395</url>
+            </site>
+            <site>
+                <type>Ruby helmet factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=396</url>
+            </site>
+            <site>
+                <type>Obsidian baton foundry</type>
+                <url>https://www.lordswm.com/object-info.php?id=400</url>
+            </site>
+            <site>
+                <type>Dragonscale works</type>
+                <url>https://www.lordswm.com/object-info.php?id=401</url>
+            </site>
+            <site>
+                <type>Dragonwing works</type>
+                <url>https://www.lordswm.com/object-info.php?id=408</url>
+            </site>
+        </production>
+    </region>
+    <region name="Portal Ruins">
+        <mining>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=266</url>
+            </site>
+            <site>
+                <type>Gem mine</type>
+                <url>https://www.lordswm.com/object-info.php?id=93</url>
+            </site>
+            <site>
+                <type>Crystal cavern</type>
+                <url>https://www.lordswm.com/object-info.php?id=245</url>
+            </site>
+            <site>
+                <type>Crystal cavern</type>
+                <url>https://www.lordswm.com/object-info.php?id=92</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=228</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Steel works</type>
+                <url>https://www.lordswm.com/object-info.php?id=350</url>
+            </site>
+            <site>
+                <type>Foundry</type>
+                <url>https://www.lordswm.com/object-info.php?id=329</url>
+            </site>
+            <site>
+                <type>Magic factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=163</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Cuirass of dawn</type>
+                <url>https://www.lordswm.com/object-info.php?id=211</url>
+            </site>
+            <site>
+                <type>Dragonscale works</type>
+                <url>https://www.lordswm.com/object-info.php?id=287</url>
+            </site>
+            <site>
+                <type>Ring of dexterity</type>
+                <url>https://www.lordswm.com/object-info.php?id=217</url>
+            </site>
+            <site>
+                <type>Blacksmith of might</type>
+                <url>https://www.lordswm.com/object-info.php?id=118</url>
+            </site>
+            <site>
+                <type>Dragonlords Legacy blacksmith</type>
+                <url>https://www.lordswm.com/object-info.php?id=99</url>
+            </site>
+            <site>
+                <type>Workshop of fortune</type>
+                <url>https://www.lordswm.com/object-info.php?id=100</url>
+            </site>
+            <site>
+                <type>Steel helmet plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=102</url>
+            </site>
+            <site>
+                <type>Leather harness plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=308</url>
+            </site>
+        </production>
+    </region>
+    <region name="Great Wall">
+        <mining>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=359</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=179</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=178</url>
+            </site>
+        </mining>
+        <machining/>
+        <production>
+            <site>
+                <type>Jewellery of wardance</type>
+                <url>https://www.lordswm.com/object-info.php?id=194</url>
+            </site>
+            <site>
+                <type>Flame boots plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=193</url>
+            </site>
+            <site>
+                <type>Obsidian boots plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=192</url>
+            </site>
+            <site>
+                <type>Gladius of presage</type>
+                <url>https://www.lordswm.com/object-info.php?id=195</url>
+            </site>
+            <site>
+                <type>Boots of dawn</type>
+                <url>https://www.lordswm.com/object-info.php?id=338</url>
+            </site>
+            <site>
+                <type>Ring of hope</type>
+                <url>https://www.lordswm.com/object-info.php?id=203</url>
+            </site>
+            <site>
+                <type>Dragongrip jewellery</type>
+                <url>https://www.lordswm.com/object-info.php?id=275</url>
+            </site>
+            <site>
+                <type>Manufactory of thorns</type>
+                <url>https://www.lordswm.com/object-info.php?id=317</url>
+            </site>
+            <site>
+                <type>Scout`s cape</type>
+                <url>https://www.lordswm.com/object-info.php?id=173</url>
+            </site>
+            <site>
+                <type>Jewellery of torment</type>
+                <url>https://www.lordswm.com/object-info.php?id=202</url>
+            </site>
+            <site>
+                <type>Obsidian helmet plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=201</url>
+            </site>
+            <site>
+                <type>Jewellery of ambition</type>
+                <url>https://www.lordswm.com/object-info.php?id=296</url>
+            </site>
+            <site>
+                <type>Steel buckler</type>
+                <url>https://www.lordswm.com/object-info.php?id=254</url>
+            </site>
+        </production>
+    </region>
+    <region name="Titans' Valley">
+        <mining>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=177</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=176</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Smeltery</type>
+                <url>https://www.lordswm.com/object-info.php?id=191</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Ring of fiery gaze</type>
+                <url>https://www.lordswm.com/object-info.php?id=190</url>
+            </site>
+            <site>
+                <type>Blacksmith of rebirth</type>
+                <url>https://www.lordswm.com/object-info.php?id=188</url>
+            </site>
+            <site>
+                <type>Cuirass of dawn</type>
+                <url>https://www.lordswm.com/object-info.php?id=318</url>
+            </site>
+            <site>
+                <type>Boots of dawn</type>
+                <url>https://www.lordswm.com/object-info.php?id=206</url>
+            </site>
+            <site>
+                <type>Helmet of dawn</type>
+                <url>https://www.lordswm.com/object-info.php?id=208</url>
+            </site>
+            <site>
+                <type>Obsidian sword blacksmith</type>
+                <url>https://www.lordswm.com/object-info.php?id=297</url>
+            </site>
+            <site>
+                <type>Forge of glory</type>
+                <url>https://www.lordswm.com/object-info.php?id=276</url>
+            </site>
+            <site>
+                <type>Horseshoe forge</type>
+                <url>https://www.lordswm.com/object-info.php?id=339</url>
+            </site>
+            <site>
+                <type>Horseshoe forge</type>
+                <url>https://www.lordswm.com/object-info.php?id=255</url>
+            </site>
+            <site>
+                <type>Nightwatch works</type>
+                <url>https://www.lordswm.com/object-info.php?id=189</url>
+            </site>
+            <site>
+                <type>Ruby gladius blacksmith</type>
+                <url>https://www.lordswm.com/object-info.php?id=187</url>
+            </site>
+            <site>
+                <type>Ring of fiery gaze</type>
+                <url>https://www.lordswm.com/object-info.php?id=207</url>
+            </site>
+            <site>
+                <type>Ring of fiery gaze</type>
+                <url>https://www.lordswm.com/object-info.php?id=360</url>
+            </site>
+        </production>
+    </region>
+    <region name="Fishing Village">
+        <mining>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=319</url>
+            </site>
+            <site>
+                <type>Crystal cavern</type>
+                <url>https://www.lordswm.com/object-info.php?id=340</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=223</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=236</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=256</url>
+            </site>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=166</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Smeltery</type>
+                <url>https://www.lordswm.com/object-info.php?id=174</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Dragonlords Legacy jewellery</type>
+                <url>https://www.lordswm.com/object-info.php?id=197</url>
+            </site>
+            <site>
+                <type>Flame plate plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=198</url>
+            </site>
+            <site>
+                <type>Obsidian shield factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=199</url>
+            </site>
+            <site>
+                <type>Flame plate plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=200</url>
+            </site>
+            <site>
+                <type>Blacksmith of courage</type>
+                <url>https://www.lordswm.com/object-info.php?id=361</url>
+            </site>
+            <site>
+                <type>Jewellery of ambition</type>
+                <url>https://www.lordswm.com/object-info.php?id=175</url>
+            </site>
+            <site>
+                <type>Gladius of presage</type>
+                <url>https://www.lordswm.com/object-info.php?id=196</url>
+            </site>
+            <site>
+                <type>Manufactory of thorns</type>
+                <url>https://www.lordswm.com/object-info.php?id=277</url>
+            </site>
+            <site>
+                <type>Obsidian sword blacksmith</type>
+                <url>https://www.lordswm.com/object-info.php?id=298</url>
+            </site>
+        </production>
+    </region>
+    <region name="Kingdom Castle">
+        <mining>
+            <site>
+                <type>Sawmill</type>
+                <url>https://www.lordswm.com/object-info.php?id=362</url>
+            </site>
+            <site>
+                <type>Gem mine</type>
+                <url>https://www.lordswm.com/object-info.php?id=186</url>
+            </site>
+            <site>
+                <type>Lab</type>
+                <url>https://www.lordswm.com/object-info.php?id=184</url>
+            </site>
+            <site>
+                <type>Ore pit</type>
+                <url>https://www.lordswm.com/object-info.php?id=237</url>
+            </site>
+        </mining>
+        <machining>
+            <site>
+                <type>Foundry</type>
+                <url>https://www.lordswm.com/object-info.php?id=320</url>
+            </site>
+            <site>
+                <type>Smeltery</type>
+                <url>https://www.lordswm.com/object-info.php?id=185</url>
+            </site>
+        </machining>
+        <production>
+            <site>
+                <type>Ring of fiery gaze</type>
+                <url>https://www.lordswm.com/object-info.php?id=183</url>
+            </site>
+            <site>
+                <type>Flame foundry</type>
+                <url>https://www.lordswm.com/object-info.php?id=181</url>
+            </site>
+            <site>
+                <type>Mithril armor factory</type>
+                <url>https://www.lordswm.com/object-info.php?id=204</url>
+            </site>
+            <site>
+                <type>Gladius of presage</type>
+                <url>https://www.lordswm.com/object-info.php?id=205</url>
+            </site>
+            <site>
+                <type>Twilight piercer</type>
+                <url>https://www.lordswm.com/object-info.php?id=257</url>
+            </site>
+            <site>
+                <type>Dragonscale works</type>
+                <url>https://www.lordswm.com/object-info.php?id=278</url>
+            </site>
+            <site>
+                <type>Ring of faith</type>
+                <url>https://www.lordswm.com/object-info.php?id=182</url>
+            </site>
+            <site>
+                <type>Maskrobe manufactory</type>
+                <url>https://www.lordswm.com/object-info.php?id=299</url>
+            </site>
+            <site>
+                <type>Flame helmet plant</type>
+                <url>https://www.lordswm.com/object-info.php?id=180</url>
+            </site>
+            <site>
+                <type>Flame foundry</type>
+                <url>https://www.lordswm.com/object-info.php?id=341</url>
+            </site>
+        </production>
+    </region>
+</map>

@@ -4,16 +4,7 @@ from python_anticaptcha import AnticaptchaClient, ImageToTextTask
 from datetime import datetime
 import requests
 import tkinter
-from tkinter import Toplevel
 import xml.etree.ElementTree as ET
-
-
-def combine_funcs(*funcs):
-    def combined_func(*args, **kwargs):
-        for f in funcs:
-            f(*args, **kwargs)
-
-    return combined_func
 
 
 class Application(object):
@@ -207,6 +198,13 @@ def check_enrollment(browser):
     else:
         print("Enrollment failed - wrong code : ", datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
         return False
+
+
+def combine_funcs(*funcs):
+    def combined_func(*args, **kwargs):
+        for f in funcs:
+            f(*args, **kwargs)
+    return combined_func
 
 
 if __name__ == '__main__':

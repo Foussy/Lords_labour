@@ -4,6 +4,7 @@ from python_anticaptcha import AnticaptchaClient, ImageToTextTask
 from datetime import datetime
 import requests
 import tkinter
+from tkinter import Toplevel
 import xml.etree.ElementTree as ET
 
 
@@ -18,7 +19,8 @@ def combine_funcs(*funcs):
 class Application(object):
     def __init__(self):
         self.root = tkinter.Tk()
-        self.root.title('LordsWM_Enroller')
+        self.root.title('LordsWM Enroller')
+        self.root.geometry("300x80")
 
         tkinter.Label(self.root, text="Login :").grid(row=0, column=0)
         self.login_entree = tkinter.Entry(self.root, width=20)
@@ -33,6 +35,21 @@ class Application(object):
         tkinter.Button(self.root, text='Stop', command=self.stop_enroll) \
             .grid(row=2, column=2)
 
+        self.menuBar = tkinter.Menu(self.root)
+
+        self.menuOptions = tkinter.Menu(self.menuBar, tearoff=0)
+        self.menuOptions.add_command(label="Parameters", command=self.parameters_window)
+        self.menuBar.add_cascade(label="options", menu=self.menuOptions)
+
+        self.menuHelp = tkinter.Menu(self.menuBar, tearoff=0)
+        self.menuHelp.add_command(label="About", command=self.parameters_window)
+        self.menuBar.add_cascade(label="Help", menu=self.menuHelp)
+        self.root.config(menu=self.menuBar)
+
+        self.chromedriver_path = '/usr/lib/chromium-browser/libs/chromedriver'
+        self.captcha_filepath = '/home/pi/Pictures/captcha.jpeg'
+        self.character_page_url = 'https://www.lordswm.com/pl_info.php?id=4552704'
+
         self.enroll_state = False
         self.timer = 1000
         self.root.mainloop()
@@ -45,21 +62,18 @@ class Application(object):
 
     def enroll(self):
         if self.enroll_state:
-            chromedriver_path = '/usr/lib/chromium-browser/libs/chromedriver'
-            captcha_filepath = '/home/pi/Pictures/captcha.jpeg'
-            characterpage_url = 'https://www.lordswm.com/pl_info.php?id=4552704' 
-        
-            chromepage = open_chromepage(chromedriver_path)
+
+            chromepage = open_chromepage(self.chromedriver_path)
             try:
                 login_homepage(chromepage, self.login_entree.get(), self.passw_entree.get())
-                region = player_region(chromepage, characterpage_url)
+                region = player_region(chromepage, self.character_page_url)
                 prod_sites, machin_sites, mines_sites = load_locations(region)
                 url = find_location_to_work(chromepage, prod_sites)
                 if not url:
                     url = find_location_to_work(chromepage, machin_sites)
                     if not url:
                         url = find_location_to_work(chromepage, mines_sites)
-                captcha_filepath = download_captcha(chromepage, url, captcha_filepath)
+                captcha_filepath = download_captcha(chromepage, url, self.captcha_filepath)
                 code = solve_captcha(captcha_filepath)
                 send_captcha(chromepage, code)
                 if check_enrollment(chromepage):
@@ -72,6 +86,11 @@ class Application(object):
             finally:
                 chromepage.quit()
                 self.root.after(self.timer, self.enroll)
+
+    def parameters_window(self):
+        print(self.chromedriver_path)
+        print(self.captcha_filepath)
+        print(self.character_page_url)
 
 
 def open_chromepage(chromdriver_path):
@@ -112,13 +131,13 @@ def load_locations(location):
     tree = ET.parse('map.xml')
     prod_sites, machin_sites, mines_sites = [], [], []
 
-    for url in tree.findall("region[@name='" + location + "']/production/site/url"):
+    for url in tree.findall('region[@name="' + location + '"]/production/site/url'):
         prod_sites.append(str(url.text))
 
-    for url in tree.findall("region[@name='" + location + "']/machining/site/url"):
+    for url in tree.findall('region[@name="' + location + '"]/machining/site/url'):
         machin_sites.append(str(url.text))
 
-    for url in tree.findall("region[@name='" + location + "']/mining/site/url"):
+    for url in tree.findall('region[@name="' + location + '"]/mining/site/url'):
         mines_sites.append(str(url.text))
 
     return prod_sites, machin_sites, mines_sites
@@ -186,7 +205,7 @@ def check_enrollment(browser):
         print("Enrolled Successfully : ", datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
         return True
     else:
-        print("Enrollment failed : ", datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
+        print("Enrollment failed - wrong code : ", datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
         return False
 
 

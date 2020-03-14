@@ -47,9 +47,11 @@ class Application(object):
 
     def stop_enroll(self):
         self.enroll_state = False
+        print('programm pause : {0}'.format(datetime.now().strftime('%Y-%m-%d %H:%M:%S')))
 
     def start_enroll(self):
         self.enroll_state = True
+        print('programm resume : {0}'.format(datetime.now().strftime('%Y-%m-%d %H:%M:%S')))
 
     def enroll(self):
         if self.enroll_state:

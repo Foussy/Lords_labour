@@ -5,6 +5,7 @@ from datetime import datetime
 import requests
 import tkinter
 import xml.etree.ElementTree as ET
+import time
 
 
 class Application(object):
@@ -145,6 +146,7 @@ def find_location_to_work(browser, list_url):
     for url in list_url:
         try:
             browser.get(url)
+            time.sleep(0.5)
             img_url = '/html/body/center/table/tbody/tr/td/table/tbody/tr/td/form[2]/table/tbody/tr[2]/td[1]/img'
             captcha_img = browser.find_element_by_xpath(img_url)
             return url

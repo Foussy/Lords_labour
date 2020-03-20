@@ -11,7 +11,6 @@ class Application(object):
     def __init__(self):
         self.root = tkinter.Tk()
         self.root.title('LordsWM Enroller')
-        self.root.geometry("300x80")
 
         tkinter.Label(self.root, text="Login :").grid(row=0, column=0)
         self.login_entree = tkinter.Entry(self.root, width=20)
@@ -30,16 +29,18 @@ class Application(object):
 
         self.menuOptions = tkinter.Menu(self.menuBar, tearoff=0)
         self.menuOptions.add_command(label="Parameters", command=self.parameters_window)
-        self.menuBar.add_cascade(label="options", menu=self.menuOptions)
+        self.menuBar.add_cascade(label="Options", menu=self.menuOptions)
 
         self.menuHelp = tkinter.Menu(self.menuBar, tearoff=0)
         self.menuHelp.add_command(label="About", command=self.parameters_window)
         self.menuBar.add_cascade(label="Help", menu=self.menuHelp)
         self.root.config(menu=self.menuBar)
 
-        self.chromedriver_path = '/usr/lib/chromium-browser/libs/chromedriver'
-        self.captcha_filepath = '/home/pi/Pictures/captcha.jpeg'
-        self.character_page_url = 'https://www.lordswm.com/pl_info.php?id=4552704'
+        # self.chromedriver_path = '/usr/lib/chromium-browser/libs/chromedriver'
+        self.chromedriver_path = 'C:/Program Files (x86)/Google/Chrome/Application/chromedriver.exe'
+        # self.captcha_filepath = '/home/pi/Pictures/captcha.jpeg'
+        self.captcha_filepath = 'C:/Users/Foussy/Pictures/LordsWM_captchas/captcha.jpeg'
+        self.character_page_url = 'https://www.lordswm.com/pl_info.php?id=5526781'
 
         self.enroll_state = False
         self.timer = 1000
@@ -54,28 +55,32 @@ class Application(object):
         print('programm resume : {0}'.format(datetime.now().strftime('%Y-%m-%d %H:%M:%S')))
 
     def enroll(self):
-        if self.enroll_state:
 
+        if self.enroll_state:
             chromepage = open_chromepage(self.chromedriver_path)
             try:
+
                 login_homepage(chromepage, self.login_entree.get(), self.passw_entree.get())
                 region = player_region(chromepage, self.character_page_url)
                 prod_sites, machin_sites, mines_sites = load_locations(region)
+
                 url = find_location_to_work(chromepage, prod_sites)
                 if not url:
                     url = find_location_to_work(chromepage, machin_sites)
+
                     if not url:
                         url = find_location_to_work(chromepage, mines_sites)
+
                 captcha_filepath = download_captcha(chromepage, url, self.captcha_filepath)
                 code = solve_captcha(captcha_filepath)
                 send_captcha(chromepage, code)
+
                 if check_enrollment(chromepage):
                     self.timer = 3600 * 1000
-                else:
-                    self.timer = 1200 * 1000
+
             except Exception as Error:
                 print(Error)
-                self.timer = 1200 * 1000
+                self.timer = 3600 * 1000
             finally:
                 chromepage.quit()
                 self.root.after(self.timer, self.enroll)

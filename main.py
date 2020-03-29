@@ -13,39 +13,68 @@ class Application(object):
         self.root = tkinter.Tk()
         self.root.title('LordsWM Enroller')
 
-        tkinter.Label(self.root, text="Login :").grid(row=0, column=0)
-        self.login_entree = tkinter.Entry(self.root, width=20)
-        self.login_entree.grid(row=0, column=1, columnspan=2)
-
-        tkinter.Label(self.root, text="Password :").grid(row=1, column=0)
-        self.passw_entree = tkinter.Entry(self.root, width=20)
-        self.passw_entree.grid(row=1, column=1, columnspan=2)
-
-        tkinter.Button(self.root, text="Launch", command=combine_funcs(self.start_enroll, self.enroll)) \
-            .grid(row=2, column=1)
-        tkinter.Button(self.root, text="Stop", command=self.stop_enroll) \
-            .grid(row=2, column=2)
-
-        tkinter.Label(self.root, text="Next enroll in :").grid(row=3, column=0)
-        self.timer_label = tkinter.Label(self.root, text="--:--:--", font=('Helvetica', 12), fg='red')
-        self.timer_label.grid(row=3, column=1)
-
+        ########## menu bar ##########
         self.menuBar = tkinter.Menu(self.root)
-
-        self.menuOptions = tkinter.Menu(self.menuBar, tearoff=0)
-        self.menuOptions.add_command(label="Parameters", command=self.parameters_window)
-        self.menuBar.add_cascade(label="Options", menu=self.menuOptions)
-
         self.menuHelp = tkinter.Menu(self.menuBar, tearoff=0)
-        self.menuHelp.add_command(label="About", command=self.parameters_window)
+        self.menuHelp.add_command(label="About", command=self.about_window)
         self.menuBar.add_cascade(label="Help", menu=self.menuHelp)
         self.root.config(menu=self.menuBar)
+        ##############################
+
+        ########## logins frame ##########
+        self.frame_logins = tkinter.Frame(self.root, highlightbackground="black", highlightthickness=1, bd=10)
+        self.frame_logins.grid(row=0, column=0)
+
+        tkinter.Label(self.frame_logins, text="Login :").grid(row=0, column=0)
+        self.login_entree = tkinter.Entry(self.frame_logins, width=20)
+        self.login_entree.grid(row=0, column=1)
+
+        tkinter.Label(self.frame_logins, text="Password :").grid(row=1, column=0)
+        self.passw_entree = tkinter.Entry(self.frame_logins, width=20)
+        self.passw_entree.grid(row=1, column=1)
+        ##############################
+
+        ########## enroll frame ##########
+        self.frame_enroll = tkinter.Frame(self.root, highlightbackground="black", highlightthickness=1, bd=10)
+        self.frame_enroll.grid(row=0, column=1)
+
+        tkinter.Button(self.frame_enroll, text="Launch", command=combine_funcs(self.start_enroll, self.enroll)) \
+            .grid(row=0, column=0)
+        tkinter.Button(self.frame_enroll, text="Stop", command=self.stop_enroll) \
+            .grid(row=0, column=1)
+
+        tkinter.Label(self.frame_enroll, text="Next enroll in :").grid(row=1, column=0)
+        self.timer_label = tkinter.Label(self.frame_enroll, text="--:--:--", font=('Helvetica', 10), fg='red')
+        self.timer_label.grid(row=1, column=1)
+        ##############################
+
+        ########## filepaths frame ##########
+        self.frame_filepath = tkinter.Frame(self.root, highlightbackground="black", highlightthickness=1, bd=10)
+        self.frame_filepath.grid(row=1, column=0, columnspan=2)
 
         #  self.chromedriver_path = '/usr/lib/chromium-browser/libs/chromedriver'
         self.chromedriver_path = 'C:/Program Files (x86)/Google/Chrome/Application/chromedriver.exe'
+        self.chromedriver_path_var = tkinter.StringVar(self.root, value=self.chromedriver_path)
+
         #  self.captcha_filepath = '/home/pi/Pictures/captcha.jpeg'
         self.captcha_filepath = 'C:/Users/Foussy/Pictures/LordsWM_captchas/captcha.jpeg'
+        self.captcha_filepath_var = tkinter.StringVar(self.root, value=self.captcha_filepath)
+
         self.character_page_url = 'https://www.lordswm.com/pl_info.php?id=5526781'
+        self.character_page_url_var = tkinter.StringVar(self.root, value=self.character_page_url)
+
+        tkinter.Label(self.frame_filepath, text="chromedriver filepath :").grid(row=0, column=0)
+        self.chromedriver_entree = tkinter.Entry(self.frame_filepath, textvariable=self.chromedriver_path_var, width=70)
+        self.chromedriver_entree.grid(row=0, column=1)
+
+        tkinter.Label(self.frame_filepath, text="captcha filepath :").grid(row=1, column=0)
+        self.captcha_entree = tkinter.Entry(self.frame_filepath, textvariable=self.captcha_filepath_var, width=70)
+        self.captcha_entree.grid(row=1, column=1)
+
+        tkinter.Label(self.frame_filepath, text="character page url :").grid(row=2, column=0)
+        self.char_url_entree = tkinter.Entry(self.frame_filepath, textvariable=self.character_page_url_var, width=70)
+        self.char_url_entree.grid(row=2, column=1)
+        ##############################
 
         self.enroll_state = False
         self.static_timer = 0
@@ -96,7 +125,7 @@ class Application(object):
             self.countdown = self.countdown - 1
             self.root.after(1000, self.update_timer)
 
-    def parameters_window(self):
+    def about_window(self):
         print(self.chromedriver_path)
         print(self.captcha_filepath)
         print(self.character_page_url)
